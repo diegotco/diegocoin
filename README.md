@@ -1,3 +1,3 @@
 # diegocoin
 
-An Arbitrum token to play with
+An ERC20 token to play with
