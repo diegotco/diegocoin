@@ -10,7 +10,4 @@ contract Diegocoin is ERC20 {
         _mint(msg.sender, MAX_SUPPLY);
     }
 
-    function mint(uint256 amount) public pure {
-        revert("Minting is not allowed for this token");
-    }
 }
